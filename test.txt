@@ -1,0 +1,1 @@
+No merging branches here, only push by TortoiseGit direct to main branch. Authenication by WebBrowser
